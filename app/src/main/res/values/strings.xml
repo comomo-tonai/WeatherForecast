@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">お天気情報</string>
+    <string name="tv_lb_weather">今の天気</string>
+    <string name="tv_lb_memo">メモ</string>
+    <string name="btn_save">保存</string>
+    <string name="tv_name">未選択</string>
+</resources>
